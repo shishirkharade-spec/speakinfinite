@@ -1,24 +1,26 @@
-# Speak Infinite GitHub Website
+# Speak Infinite Premium GitHub Website
 
-A lightweight, responsive static website concept for Speak Infinite, covering CELPIP, IELTS and PTE Core preparation.
+This version is redesigned to closely follow the current Speak Infinite website's information architecture and conversion flow:
+- top announcement/contact bar
+- Sign Up / Login and Free Demo CTAs
+- Canada-focused hero
+- About Speak Infinite
+- test selection
+- professional mentorship
+- trainer section
+- teaching roadmap
+- student testimonials
+- FAQ
+- strong conversion CTA
+- detailed CELPIP, IELTS and PTE pages
+- page-specific SEO metadata
+- canonical, Open Graph, Twitter and EducationalOrganization schema
+- responsive mobile navigation
 
-## Deploy on GitHub Pages
-1. Upload all files to a GitHub repository.
-2. Go to Settings → Pages.
-3. Select Deploy from branch → main → /root.
-4. Save and open the generated GitHub Pages URL.
+The content was aligned to the current public Speak Infinite website, including its stated focus on CELPIP, IELTS, PTE Core, expert mentorship, practice resources, mock tests and Canada-focused preparation.
 
-## Important
-- Replace placeholder/remote image URLs with approved Speak Infinite brand images before production.
-- Update canonical URLs if the site will live on a domain other than speakinfinite.ca.
-- Connect the contact form to your preferred form service or backend.
-- Review SEO claims and business/legal details before publishing.
+## GitHub Pages
+Upload the folder to a repository and enable Settings → Pages → Deploy from branch.
 
-## Included
-- 16 HTML pages
-- Page-specific title, description, keywords and canonical tags
-- Open Graph and Twitter metadata
-- EducationalOrganization JSON-LD
-- Responsive CSS
-- Mobile navigation
-- Demo/contact CTA
+## Production
+Replace the remote placeholder photography with the actual Speak Infinite brand images/logo if you have them. Connect the contact form to your preferred CRM/form endpoint.
